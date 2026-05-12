@@ -1,0 +1,20 @@
+button{
+    padding: 15px;
+    background-color: rgb(244, 208, 115);
+
+}
+input{
+    padding:10px;
+    background-color: rgb(244, 208, 115);
+}
+body{
+    background-color: rgb(239, 194, 135);
+}
+table{
+    padding:20px;
+    background-color:rgba(225, 163, 82, 0.884) ;
+}
+h1{
+    color: rgb(137, 94, 15);
+    text-shadow: 3px 3px rgb(179, 135, 53);
+}
